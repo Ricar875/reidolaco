@@ -1,0 +1,8 @@
+{
+  "name": "reidolaco-bot",
+  "version": "1.0.0",
+  "description": "Atendimento automático no Instagram + impressão na Bematech MP-4200 TH",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
